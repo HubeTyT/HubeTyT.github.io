@@ -1,0 +1,36 @@
+/* Place your CSS styles in this file */
+body {
+    background: rgb(193,160,154);
+}
+
+header{
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 300%;
+    color: red;
+    text-decoration: underline;
+}
+
+h2{
+    color: brown;
+    font-size: 330%;
+    background-color: tan;
+    font-style: italic;
+}
+
+p.Paragraf{
+    color: rgb(67, 53, 50);
+    font-size: 150%;
+}
+
+
+li{
+    font-weight: bold;
+    color: rgb(82, 56, 0);
+    font-size: 130%;
+}
+
+a{ 
+    color: rgb(5, 73, 54);
+    font-size: 110%;
+}
